@@ -599,6 +599,7 @@ progress {
 
 .img-fluid {
   max-width: 100%;
+  width: 800px;
   height: auto;
 }
 
@@ -7021,10 +7022,6 @@ textarea.form-control-lg {
 
 .d-table-cell {
   display: table-cell !important;
-}
-
-.d-flex {
-  display: flex !important;
 }
 
 .d-inline-flex {
